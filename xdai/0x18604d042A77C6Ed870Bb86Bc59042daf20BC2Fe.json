@@ -27,7 +27,7 @@
         "name": "clr.fund",
         "recipientAddress": "0xa357c5dc01d8ab4f3af519b0537468391e3e0976",
         "description": "Clr.fund is a protocol for efficiently allocating funds to public goods that benefit the Ethereum Ecosystem according to the preferences of the Ethereum Ecosystem. Clr.fund strives for credible neutrality, decentralization, permissionlessness, trustlessness, and pseudonymity. Verification of clr.fund's receiving address: https://twitter.com/clrfund/status/1298695748989722624",
-        "bannerImageUrl": "QmWqtc9qNKYdnNKjtEHJ1yKZ2xwAhgvnp4DZEbQwRYwX5A/clrfund.png",
+        "imageHash": "QmWqtc9qNKYdnNKjtEHJ1yKZ2xwAhgvnp4DZEbQwRYwX5A/clrfund.png",
         "websiteUrl": "https://clr.fund",
         "twitterUrl": "@clrfund"
       },
@@ -48,7 +48,7 @@
         "name": "Turbo-geth",
         "recipientAddress": "0x8bfbb529a9e85fdc4b70a4fcdc0d68bb298b8816",
         "description": "Turbo-Geth is a fork of Go-Ethereum with focus on performance.",
-        "bannerImageUrl": "QmbV3RyZECc7UL13eYRXC87MCcHWmPaUY2hMN1tN9N6PXb/qmdkofhsz4a8faqeqwljjmfhjjohynkstdujeqavanmkzd.png",
+        "imageHash": "QmbV3RyZECc7UL13eYRXC87MCcHWmPaUY2hMN1tN9N6PXb/qmdkofhsz4a8faqeqwljjmfhjjohynkstdujeqavanmkzd.png",
         "websiteUrl": "https://github.com/ledgerwatch/turbo-geth",
         "twitterUrl": "@turbogeth"
       },
@@ -69,7 +69,7 @@
         "name": "Vocdoni",
         "recipientAddress": "0x74d8967e812de34702ecd3d453a44bf37440b10b",
         "description": "Vocdoni is a universally verifiable, scalable and anonymous voting infrastructure relying on technologies like Ethereum, Tendermint, IPFS and zk-SNARKs, that is also extensible to token-based governance. For more information you can take a look at Vocdoni Open Stack docs: https://docs.vocdoni.io",
-        "bannerImageUrl": "QmeNfi4fFpU1WDDhhGp4kAqp2or3JSpexgoVHGF8yyjB3z/logo-square-black.png",
+        "imageHash": "QmeNfi4fFpU1WDDhhGp4kAqp2or3JSpexgoVHGF8yyjB3z/logo-square-black.png",
         "websiteUrl": "https://vocdoni.io",
         "twitterUrl": "https://twitter.com/vocdoni"
       },
@@ -90,7 +90,7 @@
         "name": "WhalerDAO",
         "recipientAddress": "0x66b1de0f14a0ce971f7f248415063d44caf19398",
         "description": "What is WhalerDAO? We fight DeFi whales to save the world.    WhalerDAO is a community of builders, researchers, legal experts, and community influencers who are dedicated to help solve the plethora of problems that the world is facing, using the power of blockchain and decentralized finance (DeFi).    We call ourselves whalers, because we intend to take the control of DeFi protocols away from the rich & powerful “whales” and give it into the hands of the people, which is necessary for preventing DeFi from becoming just another tool for the rich to get even richer.  The WhalerDAO Manifesto The WhalerDAO Blog Our Discord community   What we do? Influence - We collaborate with the various DeFi protocols to use governance as an agent for positive sum impact, transitioning from plutocracy to democracy and convincing the communities that DeFi should be used for funding charitable causes.     Develop - We develop useful tools for the DeFi community to understand how governance power is distributed and how votes are decided.    Research - We do research into novel models of governance and token distribution that prevent the domination of rich & powerful groups and individuals, such as Conviction Voting, Quadratic Voting, Quadratic Funding, and the Windfall Clause 2.    Tree TREE is the first initiative of WhalerDAO to create a DeFi protocol that benefits charitable causes.     The value created by TREE will is allocated to several pools, one being a Charity Pool. TREE also serves as the Governance Token of the TREE Charity Pool, meaning TREE holders receive a vote in how the Charity Fund is allocated to each Charity.    Resource on TREE:  Intro Blog Post Smart Contracts   Goals of our Grant: So far we are completely self funding. We have launched a DAO on IDChain and have built the Smart Contracts for TREE. Before deploying TREE, we'd like to have the contracts audited first to reduce risk to TREE holders.    WhalerDAO plans for utilizing funding:  Our plan is to use the donations to help pay for a security audit of the smart contracts used in our first project TREE, an elastic supply token that generates funding for charities.     The donations we receive in excess will directly fund the charity treasury used by TREE, and will eventually be paid out to charities as decided by TREE holders using Conviction Voting.      If you also believe that we should be working towards how to use DeFi for good, help the ecosystem and fund our grant. This is a community driven project, so we're reaching out to you the community for help.   ",
-        "bannerImageUrl": "QmZp2NkjfqwPFfF3FhXwirra9cjPU5jsTb48r5ZHCRnQqq/whalerdao-forum.png",
+        "imageHash": "QmZp2NkjfqwPFfF3FhXwirra9cjPU5jsTb48r5ZHCRnQqq/whalerdao-forum.png",
         "websiteUrl": "https://whalerdao.org/",
         "twitterUrl": "https://twitter.com/WhalerDAO"
       },
@@ -111,7 +111,7 @@
         "name": "TrueBlocks",
         "recipientAddress": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
         "description": "Indexing of appearances of Ethereum addresses in a minimal way which allows desktop, fully-decentralized historical account activity viewing and exploring",
-        "bannerImageUrl": "QmUjBALP6DKm1jTWnUZG8P7JPRkTR7KxqwNn45v11puths/notextlogo.png",
+        "imageHash": "QmUjBALP6DKm1jTWnUZG8P7JPRkTR7KxqwNn45v11puths/notextlogo.png",
         "websiteUrl": "http://trueblocks.io",
         "twitterUrl": "@trueblocks"
       },
@@ -132,7 +132,7 @@
         "name": "Rotki",
         "recipientAddress": "0x9531c059098e3d194ff87febb587ab07b30b1306",
         "description": "The portfolio tracker and accounting tool that protects your privacy.",
-        "bannerImageUrl": "QmWz29BhVgqi2LQoR9vDR6Z1miZN2CviNW5YeRMmSLDaC2/rotkehlchen-logo.png",
+        "imageHash": "QmWz29BhVgqi2LQoR9vDR6Z1miZN2CviNW5YeRMmSLDaC2/rotkehlchen-logo.png",
         "websiteUrl": "https://rotki.com/",
         "twitterUrl": "@rotkiapp"
       },
@@ -153,7 +153,7 @@
         "name": "Upala Digital Identity",
         "recipientAddress": "0xddb1cb4edbcd83066abf26e7102dc0e88009deab",
         "description": "Proof of personhood system that provides human uniqueness score. User account score is measured in dollars and represents the price of forgery - the price of efforts needed to forge the account. Which is a very reliable metrics for DApps to asses trustworthiness of an account. Your contributions will help us fund our further research, proof-of-concept, and MVP. More info here:    Upala dashboard - https://www.notion.so/Upala-dashboard-a46d88209ecb4a4cabf1560acc8673a2  Short intro video - https://www.youtube.com/watch?v=u_jAXgcvjyg&t=1s Join our telegram group - https://t.me/cherish_the_difference_Upala   Let the bots explode! No fake accounts! Viva la Sybil-resistance! Proof of address - https://twitter.com/TheUpala/status/1334064286235299840",
-        "bannerImageUrl": "QmYpac53e8KzjrgQcSDB5DtWFEuC6Lviq3meHmoNE11A2e/slice-2.resized.png",
+        "imageHash": "QmYpac53e8KzjrgQcSDB5DtWFEuC6Lviq3meHmoNE11A2e/slice-2.resized.png",
         "websiteUrl": "https://upala-docs.readthedocs.io/en/latest/",
         "twitterUrl": "TheUpala"
       },
@@ -174,7 +174,7 @@
         "name": "vyper.fun",
         "recipientAddress": "0x073ab1c0cad3677cde9bdb0cdeedc2085c029579",
         "description": "Interactive tutorials for the vyper programming language. Address can be checked against the address on the gitcoin grants page https://gitcoin.co/grants/1122/vyperfun ",
-        "bannerImageUrl": "QmcfuGS1fFkQn6Wt1CUZy3n8LwF2rA35nv5E2as2KR2HGS/mzgp0qfc-400x400.jpg",
+        "imageHash": "QmcfuGS1fFkQn6Wt1CUZy3n8LwF2rA35nv5E2as2KR2HGS/mzgp0qfc-400x400.jpg",
         "websiteUrl": "https://vyper.fun",
         "twitterUrl": "VyperFun"
       },
@@ -195,7 +195,7 @@
         "name": "WalletConnect",
         "recipientAddress": "0xcbec15583a21c3ddad5fab658be5b4fe85df730b",
         "description": "WalletConnect is an open protocol for connecting desktop Dapps to mobile Wallets using end-to-end encryption by scanning a QR code.",
-        "bannerImageUrl": "Qmag2CefrFXhqACpmeDUqCmAtq7Eq17FCGoqjGtBCwUPm7/walletconnect.png",
+        "imageHash": "Qmag2CefrFXhqACpmeDUqCmAtq7Eq17FCGoqjGtBCwUPm7/walletconnect.png",
         "websiteUrl": "https://walletconnect.org/",
         "twitterUrl": "@WalletConnect"
       },
@@ -216,7 +216,7 @@
         "name": "BanklessFR",
         "recipientAddress": "0x7b187f598b910374109222bac494f508a49bd209",
         "description": "French version of Bankless, \"The ultimate guide to crypto finance\"",
-        "bannerImageUrl": "QmZRBNXakYWAkVBRwH7WDGrJF4JHQUXaovXmkTRuX1jWK9/logo-5.png",
+        "imageHash": "QmZRBNXakYWAkVBRwH7WDGrJF4JHQUXaovXmkTRuX1jWK9/logo-5.png",
         "websiteUrl": "https://banklessfr.substack.com/",
         "twitterUrl": "https://twitter.com/BanklessFR"
       },
@@ -237,7 +237,7 @@
         "name": "RadicalxChange Foundation",
         "recipientAddress": "0x3945d766185e2264900c84fac10958b3619c2bd4",
         "description": "RadicalxChange is a global movement for next-generation political economies. It advances plurality, equality, community and decentralization through upgrades of democracy, markets, property rights, the data economy, the commons and collective intelligence governance. Founded by E. Glen Weyl in the wake of public discussion about the publication of his book Radical Markets in 2018, the RadicalxChange Foundation is a non-profit organization dedicated to that cause.",
-        "bannerImageUrl": "QmeoD6BdQo6J2anM1CrLFeAik5dZTWGRAUsAbfQoBUgZoE/rxc-logo.jpg",
+        "imageHash": "QmeoD6BdQo6J2anM1CrLFeAik5dZTWGRAUsAbfQoBUgZoE/rxc-logo.jpg",
         "websiteUrl": "https://www.radicalxchange.org/",
         "twitterUrl": "@RadxChange"
       },
@@ -258,7 +258,7 @@
         "name": "Giveth",
         "recipientAddress": "0x8f951903c9360345b4e1b536c7f5ae8f88a64e79",
         "description": "Funds will go to Giveth's multisig address to be used to fund development of https://beta.giveth.io and the upcoming https://v2.giveth.io (currently under development) additional links: https://giveth.io/donate & https://wiki.giveth.io/",
-        "bannerImageUrl": "QmVQdXQh72vsA5vESuobK9MEdASW5k6hdhirPZcLYgGx6C/giveth-logo-blue.png",
+        "imageHash": "QmVQdXQh72vsA5vESuobK9MEdASW5k6hdhirPZcLYgGx6C/giveth-logo-blue.png",
         "websiteUrl": "https://giveth.io",
         "twitterUrl": "https://twitter.com/Givethio"
       },
@@ -279,7 +279,7 @@
         "name": "Reward Courts",
         "recipientAddress": "0x36a0356d43ee4168ed24efa1cae3198708667ac0",
         "description": "Social (Charity) Tokens and DAO + Carbon Accounting (This is a public goods economy, including carbon credits counting and retirement system.) https://gitcoin.co/grants/177/social-charity-tokens-and-dao-carbon-accounting",
-        "bannerImageUrl": "Qma8LhG2H2wdJXqUGaaGyqAPku3PM1vbMS544xtJPQPvtS/factory.jpg",
+        "imageHash": "Qma8LhG2H2wdJXqUGaaGyqAPku3PM1vbMS544xtJPQPvtS/factory.jpg",
         "websiteUrl": "http://reward.portonvictor.org",
         "twitterUrl": "victorporton"
       },
@@ -300,7 +300,7 @@
         "name": "The Daily Gwei FR",
         "recipientAddress": "0x9ac6a23170a604595640d8711030849ecf6e504c",
         "description": "This is the French translation of Anthony Sassano's newsletter, The Daily Gwei. We launched the project on October 17, 2020 with a rhythm of two translations per week. We will try to make it free, without advertising and without any subscription obligation. We will try to fund it only by using the QF, and the sales of goodies and NFT collectibles.",
-        "bannerImageUrl": "QmYFBysifNW8QwLj9JFaEsFvMPQ5F5PwyK1gy87FZJLBqX/g2872.png",
+        "imageHash": "QmYFBysifNW8QwLj9JFaEsFvMPQ5F5PwyK1gy87FZJLBqX/g2872.png",
         "websiteUrl": "https://thedailygweifr.substack.com/",
         "twitterUrl": "https://twitter.com/TheDailyGweiFR"
       },
@@ -321,7 +321,7 @@
         "name": "Aragon Voting2 app",
         "recipientAddress": "0x722ce03c15670c313f9596544cdb582c19f810e2",
         "description": "Aragon Voting2 app. Voting2 will differ of Voting in the following ways: Any token (ERC-20 or ERC-1155) could be used for voting, not only special Aragon tokens. Voting is done by staking or paying a token, not by holding a token as in Voting. Voting can be quadratic. https://gitcoin.co/grants/1515/aragon-voting2-app",
-        "bannerImageUrl": "QmVJUrAmjctk5ZwywDavWfJqeX2BcbiBWkjHoMWwB7N5GV/create-new-vote.0865a324.png",
+        "imageHash": "QmVJUrAmjctk5ZwywDavWfJqeX2BcbiBWkjHoMWwB7N5GV/create-new-vote.0865a324.png",
         "websiteUrl": "https://gitcoin.co/grants/1515/aragon-voting2-app",
         "twitterUrl": "victorporton"
       },
@@ -342,7 +342,7 @@
         "name": "Science of the Future (the 100 years forward plan)",
         "recipientAddress": "0xca284d16554f020dd1e3c271b3769727c9b20327",
         "description": "Incentivize businesses to create oracles for prediction markets. Score free software and science works to reward authors accordingly to the future utility of their work. https://bit.ly/2KMcXys",
-        "bannerImageUrl": "QmcpXDjkcvYPf5DrREhT1A21Qze4CaWGuS4Y9Sdcdbaihx/square.jpeg",
+        "imageHash": "QmcpXDjkcvYPf5DrREhT1A21Qze4CaWGuS4Y9Sdcdbaihx/square.jpeg",
         "websiteUrl": "https://reward.portonvictor.org/predict-prediction-markets-or-hire-google-to-account-salaries-for-scientists-and-free-software-developers/",
         "twitterUrl": "victorporton"
       },
@@ -363,7 +363,7 @@
         "name": "Minerva Wallet",
         "recipientAddress": "0x89271340dedc4f12b9d14aa5c0b39ff7c0404ff8",
         "description": "Minerva is the only wallet for self-sovereign identities and money's. It's allowing you to maintain full control over your funds, credentials and data.  Funds go to the lab10 collective, an Austrian non-profit cooperative, developing the Minerva wallet and focusing on solutions to combat climate change.  SM Proof: https://twitter.com/MinervaWallet/status/1322152961968058370?s=20",
-        "bannerImageUrl": "QmVTLZUub8pQNQv7v7HBzesgevaUe2zpStb8vadKEvhJoV/minerva-logo-rgb-colour-700px.png",
+        "imageHash": "QmVTLZUub8pQNQv7v7HBzesgevaUe2zpStb8vadKEvhJoV/minerva-logo-rgb-colour-700px.png",
         "websiteUrl": "https://minerva.digital",
         "twitterUrl": "https://twitter.com/MinervaWallet"
       },
@@ -384,7 +384,7 @@
         "name": "Ethereum Cat Herders",
         "recipientAddress": "0x02cb3c150bedca124d0ae8cccb72fefbe705c953",
         "description": "Our aim is to bring the minimum amount of order that chaos needs to move Ethereum forward.",
-        "bannerImageUrl": "QmT68GiCDUadJNJVWTqsAFNadgWdezDEtLKg1JoKScLWpQ/1-jvbfamgyvi3wi0xsgzk9fg.png",
+        "imageHash": "QmT68GiCDUadJNJVWTqsAFNadgWdezDEtLKg1JoKScLWpQ/1-jvbfamgyvi3wi0xsgzk9fg.png",
         "websiteUrl": "https://www.ethereumcatherders.com/",
         "twitterUrl": "@EthCatHerders"
       },
@@ -405,7 +405,7 @@
         "name": "Hardhat",
         "recipientAddress": "0x587fb98e404a18503a24cf19abb1887704beb407",
         "description": "Ethereum development environment for professionals. (ETH address can be confirmed on the Hardhat gitcoin grants page https://gitcoin.co/grants/99/buidler-evm-solidity-consolelog-stack-traces, note that the project was formerly known as \"Buidler\")",
-        "bannerImageUrl": "QmNyiiJAtpx2XixiD2Sk8cAay5kB6ve9gDRc3vhz1z7dMT/mascots.svg",
+        "imageHash": "QmNyiiJAtpx2XixiD2Sk8cAay5kB6ve9gDRc3vhz1z7dMT/mascots.svg",
         "websiteUrl": "https://hardhat.org/",
         "twitterUrl": "HardhatHQ"
       },
@@ -426,7 +426,7 @@
         "name": "OpenEthereum",
         "recipientAddress": "0x7a369245ad5e44018d677b60d5bd4ff904da180e",
         "description": "OpenEthereum is a community project building the Ethereum client on Rust. We add resilience to the Ethereum network by maintaining 15-20% of its nodes.",
-        "bannerImageUrl": "QmbmEC3Toa9hHE2Enma4r1HFYHXZE9sQ8At175Rgm6j2vd/open-ethereum-medium-header.png",
+        "imageHash": "QmbmEC3Toa9hHE2Enma4r1HFYHXZE9sQ8At175Rgm6j2vd/open-ethereum-medium-header.png",
         "websiteUrl": "https://openethereum.org/",
         "twitterUrl": "@OpenEthereumOrg"
       },
@@ -447,7 +447,7 @@
         "name": "BrightID",
         "recipientAddress": "0x60e18f4971077412af2bd0297999093642f28e15",
         "description": "BrightID is a social identity network that allows you to prove you are only using one account. It is built to be a permissionless, non-invasive, open source, and decentralized public good protocol.",
-        "bannerImageUrl": "QmbM3eNy94h7JQDov9yRsMiMeudFGwZThQLUL66A1aTtBq/brightid-logo-only.png",
+        "imageHash": "QmbM3eNy94h7JQDov9yRsMiMeudFGwZThQLUL66A1aTtBq/brightid-logo-only.png",
         "websiteUrl": "https://www.brightid.org/",
         "twitterUrl": "@BrightIDProject"
       },
@@ -468,7 +468,7 @@
         "name": "Giveth",
         "recipientAddress": "0x7143a40f2cbd8321ada641828f34ac707b657ef6",
         "description": "Funds will go to Giveth's multisig address to be used to fund development of https://beta.giveth.io and the upcoming https://v2.giveth.io (currently under development) additional links: https://giveth.io/donate & https://wiki.giveth.io/",
-        "bannerImageUrl": "QmVQdXQh72vsA5vESuobK9MEdASW5k6hdhirPZcLYgGx6C/giveth-logo-blue.png",
+        "imageHash": "QmVQdXQh72vsA5vESuobK9MEdASW5k6hdhirPZcLYgGx6C/giveth-logo-blue.png",
         "websiteUrl": "https://giveth.io",
         "twitterUrl": "https://twitter.com/Givethio"
       },
@@ -489,7 +489,7 @@
         "name": "BrightID",
         "recipientAddress": "0x4b8810b079eb22ecf2d1f75e08e0abbd6fd87dbf",
         "description": "BrightID is a social identity network that allows you to prove you are only using one account. It is built to be a permissionless, non-invasive, open source, and decentralized public good protocol.",
-        "bannerImageUrl": "QmbM3eNy94h7JQDov9yRsMiMeudFGwZThQLUL66A1aTtBq/brightid-logo-only.png",
+        "imageHash": "QmbM3eNy94h7JQDov9yRsMiMeudFGwZThQLUL66A1aTtBq/brightid-logo-only.png",
         "websiteUrl": "https://www.brightid.org/",
         "twitterUrl": "@BrightIDProject"
       },
@@ -510,7 +510,7 @@
         "name": "clr.fund",
         "recipientAddress": "0x4e2f7c052376727ff6f6de2715850419ecacc302",
         "description": "Clr.fund is a protocol for efficiently allocating funds to public goods that benefit the Ethereum Ecosystem according to the preferences of the Ethereum Ecosystem. Clr.fund strives for credible neutrality, decentralization, permissionlessness, trustlessness, and pseudonymity. Verification of clr.fund's receiving address: https://twitter.com/clrfund/status/1298695748989722624",
-        "bannerImageUrl": "QmWqtc9qNKYdnNKjtEHJ1yKZ2xwAhgvnp4DZEbQwRYwX5A/clrfund.png",
+        "imageHash": "QmWqtc9qNKYdnNKjtEHJ1yKZ2xwAhgvnp4DZEbQwRYwX5A/clrfund.png",
         "websiteUrl": "https://clr.fund",
         "twitterUrl": "@clrfund"
       },
@@ -531,7 +531,7 @@
         "name": "Geo Web",
         "recipientAddress": "0xde798cd9c53f4806b9cc7dd27adf7c641540167c",
         "description": "The Geo Web is a set of open protocols and system of property rights for anchoring digital content to physical land. It creates persistence and consensus for an open digital world laid on top of the Earth—an AR metaverse. The Geo Web Digital Land Registry runs on Ethereum and is administered under a \"Self-Assessed Licenses Sold via Auction\" (SALSA) system. SALSA network fees will be used to fund additional open-source development, public goods, and Ethereum Ecosystem growth. Verification of Geo Web's receiving address: https://twitter.com/thegeoweb/status/1337801103371538434",
-        "bannerImageUrl": "QmbdCpbpkMQtyS6VMedAheLbkVS3Tc7Gp63qKsPeBEWXnn/logo-geo-web.png",
+        "imageHash": "QmbdCpbpkMQtyS6VMedAheLbkVS3Tc7Gp63qKsPeBEWXnn/logo-geo-web.png",
         "websiteUrl": "https://www.geoweb.network/",
         "twitterUrl": "@thegeoweb"
       },
@@ -552,7 +552,7 @@
         "name": "clr.fund",
         "recipientAddress": "0xadca3cf41e2e2517f1862b3ca18e8bef561eeded",
         "description": "Clr.fund is a protocol for efficiently allocating funds to public goods that benefit the Ethereum Ecosystem according to the preferences of the Ethereum Ecosystem. Clr.fund strives for credible neutrality, decentralization, permissionlessness, trustlessness, and pseudonymity. Verification of clr.fund's receiving address: https://twitter.com/clrfund/status/1298695748989722624",
-        "bannerImageUrl": "QmWqtc9qNKYdnNKjtEHJ1yKZ2xwAhgvnp4DZEbQwRYwX5A/clrfund.png",
+        "imageHash": "QmWqtc9qNKYdnNKjtEHJ1yKZ2xwAhgvnp4DZEbQwRYwX5A/clrfund.png",
         "websiteUrl": "https://clr.fund",
         "twitterUrl": "@clrfund"
       },
@@ -573,7 +573,7 @@
         "name": "Rekt",
         "recipientAddress": "0x3c5c2f4bcec51a36494682f91dbc6ca7c63b514c",
         "description": "The dark web of DeFi journalism.",
-        "bannerImageUrl": "QmUGFUVr98daT9zVoktG5fAqQ4aAYzkaeDBBBV9pkhYZ15/7-zrzzum-400x400.jpg",
+        "imageHash": "QmUGFUVr98daT9zVoktG5fAqQ4aAYzkaeDBBBV9pkhYZ15/7-zrzzum-400x400.jpg",
         "websiteUrl": "rekt.news",
         "twitterUrl": "RektHQ"
       },
@@ -594,7 +594,7 @@
         "name": "Minerva Wallet",
         "recipientAddress": "0xb2e361c338aa028668cc6327efd6799518c3c5d4",
         "description": "Minerva is the only wallet for self-sovereign identities and money's. It's allowing you to maintain full control over your funds, credentials and data.  Funds go to the lab10 collective, an Austrian non-profit cooperative, developing the Minerva wallet and focusing on solutions to combat climate change.  SM Proof: https://twitter.com/MinervaWallet/status/1322152961968058370?s=20",
-        "bannerImageUrl": "QmVTLZUub8pQNQv7v7HBzesgevaUe2zpStb8vadKEvhJoV/minerva-logo-rgb-colour-700px.png",
+        "imageHash": "QmVTLZUub8pQNQv7v7HBzesgevaUe2zpStb8vadKEvhJoV/minerva-logo-rgb-colour-700px.png",
         "websiteUrl": "https://minerva.digital",
         "twitterUrl": "https://twitter.com/MinervaWallet"
       },
@@ -615,7 +615,7 @@
         "name": "ETHDenver",
         "recipientAddress": "0xc8188203ea1ea923024b051515cdc6d45910c6d6",
         "description": "ETHDenver is the largest Web3 #BUIDLathon in the world (formerly known as a hackathon) for Ethereum and other blockchain protocol enthusiasts, designers and developers. The 7 day event is open 24 hours a day with a wide variety of activities including talks and workshops by top blockchain influencers and experts. The purpose is to contribute to the global blockchain ecosystem, whether by #BUIDLing decentralized applications (dApps), contributing to or starting infrastructure level projects, writing documentation/tutorials/white-papers, designing UI/UX, or info-graphics. So bring your inner awesomeness and some friends. We’ll provide mentors, resources, and all of the educational content you can consume. Funds received via clr.fund will go towards prizes and event experiences for each ETHDenver installment. Our ENS name and ETH address can be confirmed on our Twitter profile.",
-        "bannerImageUrl": "QmUXdhjBM4xAmb3hMoaf2yUqeg7obcZd2c7W7PdKTaRbES/ethdenver-padded.jpg",
+        "imageHash": "QmUXdhjBM4xAmb3hMoaf2yUqeg7obcZd2c7W7PdKTaRbES/ethdenver-padded.jpg",
         "websiteUrl": "https://www.ethdenver.com/",
         "twitterUrl": "EthereumDenver"
       },
@@ -636,7 +636,7 @@
         "name": "Matching Funds Multisig",
         "recipientAddress": "0xfcc41c4614bd464ba28ad96f93aadaa7ba6c8680",
         "description": "Clr.fund is a protocol for efficiently allocating funds to public goods that benefit the Ethereum Ecosystem according to the preferences of the Ethereum Ecosystem. Clr.fund strives for credible neutrality, decentralization, permissionlessness, trustlessness, and pseudonymity. Verification of clr.fund's receiving address: https://twitter.com/clrfund/status/1298695748989722624",
-        "bannerImageUrl": "QmWqtc9qNKYdnNKjtEHJ1yKZ2xwAhgvnp4DZEbQwRYwX5A/clrfund.png",
+        "imageHash": "QmWqtc9qNKYdnNKjtEHJ1yKZ2xwAhgvnp4DZEbQwRYwX5A/clrfund.png",
         "websiteUrl": "https://clr.fund",
         "twitterUrl": "@clrfund"
       },
