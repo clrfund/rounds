@@ -2,6 +2,13 @@
   {
     "network": "xdai",
     "address": "0xbC8b6F9e55466217522ce382047191312e51e67D",
-    "startTime": 1605642150
+    "startTime": 1605642150,
+    "isFinalized": true
+  },
+  {
+    "network": "xdai",
+    "address": "0x18604d042A77C6Ed870Bb86Bc59042daf20BC2Fe",
+    "startTime": 1607703550,
+    "isFinalized": true
   }
 ]

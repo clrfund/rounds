@@ -2,34 +2,25 @@
   "round": {
     "address": "0xbC8b6F9e55466217522ce382047191312e51e67D",
     "nativeTokenAddress": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
-    "nativeToken": {
-      "symbol": "WXDAI",
-      "decimals": 18
-    },
+    "nativeTokenDecimals": 18,
+    "nativeTokenSymbol": "WXDAI",
     "contributorCount": 26,
     "matchingPoolSize": "1000100000000000000000",
+    "totalSpent": "22695283",
     "voiceCreditFactor": "10000000000000",
     "isFinalized": true,
     "isCancelled": false,
     "tallyHash": "QmegvaJ9mhCUyrWozryY3xnUwnAeDmfMPhuNsDZxKKQyFx",
     "maciAddress": "0x0bbAfaa929f882568e56a49D9e4810BfE9e1498f",
     "startTime": 1605642150,
-    "endTime": 1607110950,
     "recipientRegistryAddress": "0x98dC6e3B3E922d4b32EdC8fED899850F764EbEc9"
   },
   "projects": [
     {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 0,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
       "id": "0x4E2f7c052376727ff6F6DE2715850419ecacC302",
       "state": "Accepted",
-      "address": "0x4E2f7c052376727ff6F6DE2715850419ecacC302",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0xd714Dd60e22BbB1cbAFD0e40dE5Cfa7bBDD3F3C8",
       "name": "clr.fund",
       "metadata": {
         "name": "clr.fund",
@@ -39,17 +30,16 @@
       },
       "createdAt": "2020-11-15T02:40:05.000Z",
       "recipientIndex": 1,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 1,
       "tallyResult": "6340",
       "spentVoiceCredits": "3748096",
       "formattedDonationAmount": "37.48096",
-      "formattedAllocatedAmount": "202.300391291420848818"
+      "allocatedAmount": "202300391291420848818"
     },
     {
       "id": "0x9531C059098e3d194fF87FebB587aB07B30B1306",
       "state": "Accepted",
-      "address": "0x9531C059098e3d194fF87FebB587aB07B30B1306",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0xd714Dd60e22BbB1cbAFD0e40dE5Cfa7bBDD3F3C8",
       "name": "Rotki",
       "metadata": {
         "name": "Rotki",
@@ -59,17 +49,16 @@
       },
       "createdAt": "2020-11-15T02:41:40.000Z",
       "recipientIndex": 2,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 2,
       "tallyResult": "1254",
       "spentVoiceCredits": "799058",
       "formattedDonationAmount": "7.99058",
-      "formattedAllocatedAmount": "40.590511678145385555"
+      "allocatedAmount": "40590511678145385555"
     },
     {
       "id": "0x8BFBB529A9E85fDC4b70A4FCdC0D68Bb298B8816",
       "state": "Accepted",
-      "address": "0x8BFBB529A9E85fDC4b70A4FCdC0D68Bb298B8816",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0xd714Dd60e22BbB1cbAFD0e40dE5Cfa7bBDD3F3C8",
       "name": "Turbo-geth",
       "metadata": {
         "name": "Turbo-geth",
@@ -79,17 +68,16 @@
       },
       "createdAt": "2020-11-15T02:42:00.000Z",
       "recipientIndex": 3,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 3,
       "tallyResult": "2714",
       "spentVoiceCredits": "1309420",
       "formattedDonationAmount": "13.0942",
-      "formattedAllocatedAmount": "83.649395035475738753"
+      "allocatedAmount": "83649395035475738753"
     },
     {
       "id": "0xcBec15583A21C3ddAD5fab658be5b4FE85Df730b",
       "state": "Accepted",
-      "address": "0xcBec15583A21C3ddAD5fab658be5b4FE85Df730b",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0xd714Dd60e22BbB1cbAFD0e40dE5Cfa7bBDD3F3C8",
       "name": "WalletConnect",
       "metadata": {
         "name": "WalletConnect",
@@ -99,17 +87,16 @@
       },
       "createdAt": "2020-11-15T02:42:25.000Z",
       "recipientIndex": 4,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 4,
       "tallyResult": "5146",
       "spentVoiceCredits": "2852920",
       "formattedDonationAmount": "28.5292",
-      "formattedAllocatedAmount": "162.308504956727395586"
+      "allocatedAmount": "162308504956727395586"
     },
     {
       "id": "0xf503017D7baF7FBC0fff7492b751025c6A78179b",
       "state": "Accepted",
-      "address": "0xf503017D7baF7FBC0fff7492b751025c6A78179b",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0xd714Dd60e22BbB1cbAFD0e40dE5Cfa7bBDD3F3C8",
       "name": "TrueBlocks",
       "metadata": {
         "name": "TrueBlocks",
@@ -119,17 +106,16 @@
       },
       "createdAt": "2020-11-15T02:42:45.000Z",
       "recipientIndex": 5,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 5,
       "tallyResult": "1528",
       "spentVoiceCredits": "854730",
       "formattedDonationAmount": "8.5473",
-      "formattedAllocatedAmount": "48.270342746575876497"
+      "allocatedAmount": "48270342746575876497"
     },
     {
       "id": "0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF",
       "state": "Accepted",
-      "address": "0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0xd714Dd60e22BbB1cbAFD0e40dE5Cfa7bBDD3F3C8",
       "name": "BrightID 🔆",
       "metadata": {
         "name": "BrightID 🔆",
@@ -139,17 +125,16 @@
       },
       "createdAt": "2020-11-15T02:43:15.000Z",
       "recipientIndex": 6,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 6,
       "tallyResult": "9183",
       "spentVoiceCredits": "5976363",
       "formattedDonationAmount": "59.76363",
-      "formattedAllocatedAmount": "298.491837815318242066"
+      "allocatedAmount": "298491837815318242066"
     },
     {
       "id": "0x3945D766185E2264900C84faC10958B3619C2bD4",
       "state": "Accepted",
-      "address": "0x3945D766185E2264900C84faC10958B3619C2bD4",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0xd714Dd60e22BbB1cbAFD0e40dE5Cfa7bBDD3F3C8",
       "name": "RadicalxChange",
       "metadata": {
         "name": "RadicalxChange",
@@ -159,17 +144,16 @@
       },
       "createdAt": "2020-11-15T02:43:40.000Z",
       "recipientIndex": 7,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 7,
       "tallyResult": "1757",
       "spentVoiceCredits": "798683",
       "formattedDonationAmount": "7.98683",
-      "formattedAllocatedAmount": "53.663129807417418197"
+      "allocatedAmount": "53663129807417418197"
     },
     {
       "id": "0xf4ABF1703771A33633e5DfF5782f4D6412e845af",
       "state": "Accepted",
-      "address": "0xf4ABF1703771A33633e5DfF5782f4D6412e845af",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0xd714Dd60e22BbB1cbAFD0e40dE5Cfa7bBDD3F3C8",
       "name": "BanklessFR",
       "metadata": {
         "name": "BanklessFR",
@@ -179,17 +163,16 @@
       },
       "createdAt": "2020-11-15T02:43:55.000Z",
       "recipientIndex": 8,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 8,
       "tallyResult": "707",
       "spentVoiceCredits": "499849",
       "formattedDonationAmount": "4.99849",
-      "formattedAllocatedAmount": "23.378196297008602541"
+      "allocatedAmount": "23378196297008602541"
     },
     {
       "id": "0x073Ab1C0CAd3677cDe9BDb0cDEEDC2085c029579",
       "state": "Accepted",
-      "address": "0x073Ab1C0CAd3677cDe9BDb0cDEEDC2085c029579",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0xd714Dd60e22BbB1cbAFD0e40dE5Cfa7bBDD3F3C8",
       "name": "Vyper.fun",
       "metadata": {
         "name": "Vyper.fun",
@@ -199,17 +182,16 @@
       },
       "createdAt": "2020-11-15T02:44:25.000Z",
       "recipientIndex": 9,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 9,
       "tallyResult": "447",
       "spentVoiceCredits": "199809",
       "formattedDonationAmount": "1.99809",
-      "formattedAllocatedAmount": "13.618639808716895807"
+      "allocatedAmount": "13618639808716895807"
     },
     {
       "id": "0x7143A40f2cbD8321aDA641828f34ac707B657eF6",
       "state": "Accepted",
-      "address": "0x7143A40f2cbD8321aDA641828f34ac707B657eF6",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0xd714Dd60e22BbB1cbAFD0e40dE5Cfa7bBDD3F3C8",
       "name": "Giveth",
       "metadata": {
         "name": "Giveth",
@@ -219,17 +201,16 @@
       },
       "createdAt": "2020-11-15T02:45:00.000Z",
       "recipientIndex": 10,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 10,
       "tallyResult": "2023",
       "spentVoiceCredits": "1599705",
       "formattedDonationAmount": "15.99705",
-      "formattedAllocatedAmount": "68.588486830054318164"
+      "allocatedAmount": "68588486830054318164"
     },
     {
       "id": "0x89271340deDC4f12b9D14Aa5C0b39Ff7c0404Ff8",
       "state": "Accepted",
-      "address": "0x89271340deDC4f12b9D14Aa5C0b39Ff7c0404Ff8",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0xd714Dd60e22BbB1cbAFD0e40dE5Cfa7bBDD3F3C8",
       "name": "Minerva Wallet",
       "metadata": {
         "name": "Minerva Wallet",
@@ -239,17 +220,16 @@
       },
       "createdAt": "2020-11-15T02:45:25.000Z",
       "recipientIndex": 11,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 11,
       "tallyResult": "4354",
       "spentVoiceCredits": "2598726",
       "formattedDonationAmount": "25.98726",
-      "formattedAllocatedAmount": "139.17713442316188892"
+      "allocatedAmount": "139177134423161888920"
     },
     {
       "id": "0x74D8967e812de34702eCD3D453a44bf37440b10b",
       "state": "Accepted",
-      "address": "0x74D8967e812de34702eCD3D453a44bf37440b10b",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0xd714Dd60e22BbB1cbAFD0e40dE5Cfa7bBDD3F3C8",
       "name": "Vocdoni",
       "metadata": {
         "name": "Vocdoni",
@@ -259,17 +239,16 @@
       },
       "createdAt": "2020-11-15T02:46:05.000Z",
       "recipientIndex": 12,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 12,
       "tallyResult": "2030",
       "spentVoiceCredits": "958906",
       "formattedDonationAmount": "9.58906",
-      "formattedAllocatedAmount": "62.362474120123710268"
+      "allocatedAmount": "62362474120123710268"
     },
     {
       "id": "0x02Cb3C150BEdca124d0aE8CcCb72fefbe705c953",
       "state": "Accepted",
-      "address": "0x02Cb3C150BEdca124d0aE8CcCb72fefbe705c953",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0x81aaA9a7a8358cC2971B9b8dE72aCCe6d7862BC8",
       "name": "Ethereum Cat Herders",
       "metadata": {
         "name": "Ethereum Cat Herders",
@@ -279,17 +258,16 @@
       },
       "createdAt": "2020-11-23T10:48:35.000Z",
       "recipientIndex": 13,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 13,
       "tallyResult": "994",
       "spentVoiceCredits": "499018",
       "formattedDonationAmount": "4.99018",
-      "formattedAllocatedAmount": "30.830955189853678821"
+      "allocatedAmount": "30830955189853678821"
     },
     {
       "id": "0x36A0356d43EE4168ED24EFA1CAe3198708667ac0",
       "state": "Accepted",
-      "address": "0x36A0356d43EE4168ED24EFA1CAe3198708667ac0",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0x81aaA9a7a8358cC2971B9b8dE72aCCe6d7862BC8",
       "name": "Reward Courts",
       "metadata": {
         "name": "Reward Courts",
@@ -299,17 +277,16 @@
       },
       "createdAt": "2020-11-23T10:48:55.000Z",
       "recipientIndex": 14,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 14,
       "tallyResult": "0",
       "spentVoiceCredits": "0",
       "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
+      "allocatedAmount": "0"
     },
     {
       "id": "0x9Ac6a23170A604595640d8711030849eCF6E504c",
       "state": "Accepted",
-      "address": "0x9Ac6a23170A604595640d8711030849eCF6E504c",
+      "recipientAddress": "0x0000000000000000000000000000000000000000",
+      "requester": "0x81aaA9a7a8358cC2971B9b8dE72aCCe6d7862BC8",
       "name": "The Daily Gwei FR",
       "metadata": {
         "name": "The Daily Gwei FR",
@@ -319,884 +296,10 @@
       },
       "createdAt": "2020-11-23T10:50:20.000Z",
       "recipientIndex": 15,
-      "tallyRecipientAddress": "",
-      "tallyIndex": 15,
       "tallyResult": "0",
       "spentVoiceCredits": "0",
       "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 16,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 17,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 18,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 19,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 20,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 21,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 22,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 23,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 24,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 25,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 26,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 27,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 28,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 29,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 30,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 31,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 32,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 33,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 34,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 35,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 36,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 37,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 38,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 39,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 40,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 41,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 42,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 43,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 44,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 45,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 46,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 47,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 48,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 49,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 50,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 51,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 52,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 53,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 54,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 55,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 56,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 57,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 58,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 59,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 60,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 61,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 62,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 63,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 64,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 65,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 66,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 67,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 68,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 69,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 70,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 71,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 72,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 73,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 74,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 75,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 76,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 77,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 78,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 79,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 80,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 81,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 82,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 83,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 84,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 85,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 86,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 87,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 88,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 89,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 90,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 91,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 92,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 93,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 94,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 95,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 96,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 97,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 98,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 99,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 100,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 101,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 102,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 103,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 104,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 105,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 106,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 107,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 108,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 109,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 110,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 111,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 112,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 113,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 114,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 115,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 116,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 117,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 118,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 119,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 120,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 121,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 122,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 123,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
-    },
-    {
-      "tallyRecipientAddress": "",
-      "tallyIndex": 124,
-      "tallyResult": "0",
-      "spentVoiceCredits": "0",
-      "formattedDonationAmount": "0.0",
-      "formattedAllocatedAmount": "0.0"
+      "allocatedAmount": "0"
     }
   ],
   "tally": {
