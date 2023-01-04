@@ -46,5 +46,11 @@
     "address": "0x1c1DF3c3612E140B295F8D37636cBdAf209C2d99",
     "startTime": 1621450380,
     "isFinalized": true
+  },
+  {
+    "network": "xdai",
+    "address": "0xd07aa7faeba14efde87f2538699c0d6c9a566c20",
+    "startTime": 1633575170,
+    "isFinalized": false
   }
 ]
