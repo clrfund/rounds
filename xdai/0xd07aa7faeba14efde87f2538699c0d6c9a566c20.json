@@ -5,6 +5,7 @@
     "nativeTokenDecimals": 18,
     "nativeTokenSymbol": "WXDAI",
     "contributorCount": 6137,
+    "matchingPoolSize": "0",
     "totalSpent": "0",
     "voiceCreditFactor": "10000000000000",
     "isFinalized": true,
