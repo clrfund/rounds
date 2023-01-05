@@ -4,6 +4,7 @@ This repository stores all the previous funding rounds ran by [CLR.fund](https:/
 
 ## Directory structure
 
+```
 /
 ├─── rounds.json
 ├─── /xdai
@@ -11,9 +12,10 @@ This repository stores all the previous funding rounds ran by [CLR.fund](https:/
 │      └──/0x18604d042A77C6Ed870Bb86Bc59042daf20BC2Fe.json
 │      └──/0xb9652b7Cf43b6ec46c8d69728550D91201D609fa.json
 
+```
 
 - rounds.json: contains a list of all the previous funding rounds
-- `roundContractAddress`.json: contains information about the specific funding round. Funding rounds ran on the same network will be stored in the same network folder.
+- 0x999...99.json: contains information about the specific funding round. Funding rounds ran on the same network will be stored in the same network folder.
 
 
 ## How to generate the JSON files
