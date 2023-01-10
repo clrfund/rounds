@@ -5,7 +5,7 @@
     "nativeTokenDecimals": 18,
     "nativeTokenSymbol": "WXDAI",
     "contributorCount": 6137,
-    "matchingPoolSize": "0",
+    "matchingPoolSize": "24865291272300000000000",
     "totalSpent": "0",
     "voiceCreditFactor": "10000000000000",
     "isFinalized": true,
@@ -29,7 +29,8 @@
         "imageHash": "QmV8WRjSX4H3jARcspCuUkqWbkrKZN17B4mf1xK2EX9ZSk"
       },
       "createdAt": "2021-10-06T01:14:45.000Z",
-      "recipientIndex": 1
+      "recipientIndex": 1,
+      "allocatedAmount": "5139631936000000000000"
     },
     {
       "id": "0xc4fb8274f9c326ce41837cac66cc5dab7853e9ac7a1c850aacde5206bc7354d5",
@@ -43,7 +44,8 @@
         "imageHash": "QmZrVmPPwZCStVNU6zGXL9Uj1s1xrkAfQaGYdbZ9hothE5"
       },
       "createdAt": "2021-10-06T02:20:20.000Z",
-      "recipientIndex": 11
+      "recipientIndex": 11,
+      "allocatedAmount": "1330584930000000000000"
     },
     {
       "id": "0x5a0062cf719a9f76e25a076ebbca63983fdf9d3005e0ad0a90a3d3ed29a58f0d",
@@ -57,7 +59,8 @@
         "imageHash": "Qmd4CFemMm4AtrFEhZtjrsCAcTTD8UGHvw9TpR9r5rgiJU"
       },
       "createdAt": "2021-10-06T02:21:10.000Z",
-      "recipientIndex": 22
+      "recipientIndex": 22,
+      "allocatedAmount": "893048155600000000000"
     },
     {
       "id": "0x5aa4a2c30e540dcfa85d2bbb3cdefc7e3b7d6af503cd5dac41ca686d6aadbce3",
@@ -71,7 +74,8 @@
         "imageHash": "QmXKrqMsvYCJtBRhkCbpmJ8WwoiCvajomDBCX1d83YGm6H"
       },
       "createdAt": "2021-10-06T02:22:35.000Z",
-      "recipientIndex": 12
+      "recipientIndex": 12,
+      "allocatedAmount": "1457866194000000000000"
     },
     {
       "id": "0x7e78e4cb269d8cf2d450880bce23ecab39c5514533290eb56304067f204f8a11",
@@ -85,7 +89,8 @@
         "imageHash": "QmbDrn2Qq8Q7XTQtJbdNoZQWgNH5gtpUvgGeiw3mojRK43"
       },
       "createdAt": "2021-10-06T02:25:55.000Z",
-      "recipientIndex": 17
+      "recipientIndex": 17,
+      "allocatedAmount": "894916009500000000000"
     },
     {
       "id": "0x97785d7a34f5b3a53f6991528c33fdf5e67b89462d704400778f41d1229a9bee",
@@ -99,7 +104,8 @@
         "imageHash": "QmZ68E5KzHmhQGqJEa79yD6qE4NB1jKM1p9jmBjsv4wDi4"
       },
       "createdAt": "2021-10-06T02:27:25.000Z",
-      "recipientIndex": 14
+      "recipientIndex": 14,
+      "allocatedAmount": "1174606299000000000000"
     },
     {
       "id": "0x745b0c62156be40864b2173d561c8ad0a5e336a94d03ffe5891def675c5f21ae",
@@ -113,7 +119,8 @@
         "imageHash": "QmQxd7T4Wpi5qfjvURhF1t1CkW5dSY4xp2HbJzCuvdsCRe"
       },
       "createdAt": "2021-10-06T02:30:15.000Z",
-      "recipientIndex": 20
+      "recipientIndex": 20,
+      "allocatedAmount": "1195947479000000000000"
     },
     {
       "id": "0xec0fdba697e7c2dd1d5df271caf25329de521de24f53bd3166a4a562f93b8e94",
@@ -127,7 +134,8 @@
         "imageHash": "QmPAyLMQAdn9Liv1hPdZk6zP33KwtqRcRyhycEirqQvm5G"
       },
       "createdAt": "2021-10-06T02:31:05.000Z",
-      "recipientIndex": 19
+      "recipientIndex": 19,
+      "allocatedAmount": "854440642400000000000"
     },
     {
       "id": "0x984ba7908ecf1f071952b38e92db6153a4559ea29b845b3c6d6ad582df85dfee",
@@ -141,7 +149,8 @@
         "imageHash": "QmZqtoRSvUGBFK6Cx5NaUo1V4NmwBVRPtgqZjWzoTrejzF"
       },
       "createdAt": "2021-10-06T02:32:35.000Z",
-      "recipientIndex": 10
+      "recipientIndex": 10,
+      "allocatedAmount": "1474070860000000000000"
     },
     {
       "id": "0x088c06ddb439feee20381b7d30e1722865fe61cac5b8ddc3d5a29569dcfa31e7",
@@ -155,7 +164,8 @@
         "imageHash": "QmWcYjefNzDKVJpDXsSBiRcBKSkdugynWDPk5cMvhfAMWz"
       },
       "createdAt": "2021-10-06T02:33:50.000Z",
-      "recipientIndex": 8
+      "recipientIndex": 8,
+      "allocatedAmount": "698795508600000000000"
     },
     {
       "id": "0xc8ecd956b3ee8b2194926073140d64777229738644781d4f8b842e87a718760a",
@@ -169,7 +179,8 @@
         "imageHash": "QmWGuNftStSvD6v4PLzCEcjvY582NJvzNZaNnLqnmaPX6X"
       },
       "createdAt": "2021-10-06T02:36:50.000Z",
-      "recipientIndex": 4
+      "recipientIndex": 4,
+      "allocatedAmount": "1302224282000000000000"
     },
     {
       "id": "0xc913f3d482ee8d83af28c31c66d5dc14bcda88478de533d3925f62899df06f09",
@@ -183,7 +194,8 @@
         "imageHash": "QmNqid9ES2oeBjYeLVUeRDtCCVUxfXJnP4WXHcyMJvtH4t"
       },
       "createdAt": "2021-10-06T02:40:05.000Z",
-      "recipientIndex": 18
+      "recipientIndex": 18,
+      "allocatedAmount": "1625872229000000000000"
     },
     {
       "id": "0x5fba818c6986e670a430a9468775f2d42254ac57f7789d98241176419f5e6f29",
@@ -212,7 +224,8 @@
         "imageHash": "QmSNX57qKxh6CQ8Lrn9Efr2orN1SqeU7UiDgssbgng8bdJ"
       },
       "createdAt": "2021-10-06T02:42:00.000Z",
-      "recipientIndex": 6
+      "recipientIndex": 6,
+      "allocatedAmount": "1281475915000000000000"
     },
     {
       "id": "0xba9618a46cf2e5a5d9ffba964ee254867deec54daeae545ed9bd34eefa9cf01a",
@@ -226,7 +239,8 @@
         "imageHash": "QmPE4Np3HQkYWr16LSUk5TaSeQqRD8sH9TteMdCuC7x8rK"
       },
       "createdAt": "2021-10-06T02:43:30.000Z",
-      "recipientIndex": 23
+      "recipientIndex": 23,
+      "allocatedAmount": "1128962206000000000000"
     },
     {
       "id": "0x2a58d1a99c4ce100ecda5519fc45606982291d365749c6463af64449d31e08b5",
@@ -240,7 +254,8 @@
         "imageHash": "QmPU7RZH2ogRAgEa761SAHWuyWLyGDSKmZPqst9EczquYf"
       },
       "createdAt": "2021-10-06T02:44:50.000Z",
-      "recipientIndex": 7
+      "recipientIndex": 7,
+      "allocatedAmount": "943861154400000000000"
     },
     {
       "id": "0x3bd52ffe888a260079ee27579b81a148242094611863808a334dd98206f08878",
@@ -254,7 +269,8 @@
         "imageHash": "QmSPTohD9wJWSZXBPNwwXyraTFFqJt3NZjRcyqhsFudvc3"
       },
       "createdAt": "2021-10-06T02:46:05.000Z",
-      "recipientIndex": 25
+      "recipientIndex": 25,
+      "allocatedAmount": "1143021948000000000000"
     },
     {
       "id": "0xd1290d154804b2e0763840649926056bba26b90dbbcfb98ece577ff739803ca1",
@@ -268,7 +284,8 @@
         "imageHash": "QmRA4dJ9kG9S6xLTM66DEJ7ZkNDHpzVdELGgjSAncHBprx"
       },
       "createdAt": "2021-10-06T02:47:15.000Z",
-      "recipientIndex": 15
+      "recipientIndex": 15,
+      "allocatedAmount": "1130610093000000000000"
     },
     {
       "id": "0xd9de535dc1c7053aad025163738551c2bf394b1148c31ae169f91c94e8b54c7c",
@@ -282,7 +299,8 @@
         "imageHash": "QmQchwYJ5G9yQdG7Yf18hHewUacstN5zuwPV4QhANFdF4E"
       },
       "createdAt": "2021-10-06T02:48:00.000Z",
-      "recipientIndex": 21
+      "recipientIndex": 21,
+      "allocatedAmount": "1717734356000000000000"
     },
     {
       "id": "0x1f22ab557c7dd13265c60b39f4f8e485b461677f566e54d5ccde4c05ca901de7",
@@ -296,7 +314,8 @@
         "imageHash": "QmTQQoCMmiGt5QPqZoJEc8sH3GbU89Vjiy1GRY8S5KmsMh"
       },
       "createdAt": "2021-10-06T02:49:25.000Z",
-      "recipientIndex": 5
+      "recipientIndex": 5,
+      "allocatedAmount": "1061099788000000000000"
     },
     {
       "id": "0xcef8ac2772db58f131eaf14ef038bda7642042c4d6fb59088d4c5f15d7351dae",
@@ -310,7 +329,8 @@
         "imageHash": "QmZdcknPVWGiSgcQzRcmT9yGKsviYSxZF4YUPgczHn1vui"
       },
       "createdAt": "2021-10-06T02:50:15.000Z",
-      "recipientIndex": 16
+      "recipientIndex": 16,
+      "allocatedAmount": "1218081176000000000000"
     },
     {
       "id": "0x05831eeecde392775f48b084e01a07dd076f7ddacf9dcf63f1957143f37e68cf",
@@ -324,7 +344,8 @@
         "imageHash": "Qmbm141sQbtqewsuSpFR278TxiatZFRktdT56RciqDgiWk"
       },
       "createdAt": "2021-10-06T02:51:05.000Z",
-      "recipientIndex": 3
+      "recipientIndex": 3,
+      "allocatedAmount": "1753775851000000000000"
     },
     {
       "id": "0x4900233b54812d9812f8a143076082e843673d78eed655c0382f738194439be4",
@@ -338,7 +359,8 @@
         "imageHash": "QmPKst6UNiW3V7C3e2mNQcLWP4oRnDAjpJ65d6KDACNAf1"
       },
       "createdAt": "2021-10-06T02:51:55.000Z",
-      "recipientIndex": 13
+      "recipientIndex": 13,
+      "allocatedAmount": "1836300942000000000000"
     },
     {
       "id": "0xe105aa8dc65da08e0243716fbc89b8d3d2677f589cf57062cb8cb755746dc042",
@@ -352,7 +374,8 @@
         "imageHash": "QmNxcV8TUoq3Jrynx5BxxH2rLPdGMiudE1kJn7Ckh6MHfu"
       },
       "createdAt": "2021-10-06T02:56:30.000Z",
-      "recipientIndex": 9
+      "recipientIndex": 9,
+      "allocatedAmount": "1393160526000000000000"
     },
     {
       "id": "0xcb71833438b716c062cdc95868fddccd7818cf55233e97366cb77609d275e2a0",
@@ -366,7 +389,8 @@
         "imageHash": "QmQKsft9kpjYR5yqoAzwxE32sSby3sqrDVb57ANhTNcCah"
       },
       "createdAt": "2021-10-06T02:57:20.000Z",
-      "recipientIndex": 24
+      "recipientIndex": 24,
+      "allocatedAmount": "738512199600000000000"
     },
     {
       "id": "0x236170cea69a2282051762b02d8b12462d2aeea87ef0e5b4763557a0708c64c2",
@@ -408,7 +432,8 @@
         "imageHash": "QmVWQyXngPLGHoToWzLLut9KFPB5wQGfSSEWSMF8HV3msw"
       },
       "createdAt": "2021-10-18T04:35:00.000Z",
-      "recipientIndex": 26
+      "recipientIndex": 26,
+      "allocatedAmount": "206399321200000000000"
     },
     {
       "id": "0x586460f83604822a67e83c4093203742eda59156ac40e5a3da94c919752a8e20",
@@ -466,5 +491,69 @@
       "createdAt": "2022-04-20T14:58:10.000Z",
       "recipientIndex": 30
     }
-  ]
+  ],
+  "tally": {
+    "results": {
+      "tally": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "146338793",
+        "119242180",
+        "144007174",
+        "106067368",
+        "78527864",
+        "156557847",
+        "165650229",
+        "149525850",
+        "163829213",
+        "0",
+        "131997591",
+        "127053472",
+        "136883125",
+        "100567107",
+        "182709064",
+        "96018646",
+        "134395828",
+        "193032165",
+        "100357205",
+        "126868289",
+        "82991068",
+        "128448267",
+        "23194336"
+      ]
+    },
+    "totalVoiceCreditsPerVoteOption": {
+      "tally": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    }
+  }
 }
