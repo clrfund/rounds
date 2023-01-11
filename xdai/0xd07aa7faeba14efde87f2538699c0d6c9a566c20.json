@@ -13,6 +13,12 @@
     "tallyHash": "",
     "maciAddress": "0x40Fb0d80f8Fa6eD3292e37C694C83F1196b7300D",
     "startTime": 1633575170,
+    "endTime": 1635389570,
+    "signUpDuration": 1728000,
+    "votingDuration": 86400,
+    "messages": 49727,
+    "maxMessages": 4294967295,
+    "maxRecipients": 124,
     "userRegistryAddress": "0x8511b13B2f729FF8180eA4086339fACfdbdF9F8A",
     "recipientRegistryAddress": "0xEfc267B05B0B1F2de794da28374c25e1478Ff455",
     "blogUrl": "https://blog.clr.fund/clrfund-round-8-final-splash"
