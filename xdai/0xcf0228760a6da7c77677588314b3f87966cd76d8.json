@@ -13,6 +13,12 @@
     "tallyHash": "QmUFBBcDcBfCd5GmSn99SPieKjnB4vMgSG2i9RGwtY6QE3",
     "maciAddress": "0x8bDB7A7636d3E79631b41d9CC938971Ec16f8cd6",
     "startTime": 1603564690,
+    "endTime": 1605033490,
+    "signUpDuration": 1209600,
+    "votingDuration": 259200,
+    "messages": 76,
+    "maxMessages": 2047,
+    "maxRecipients": 124,
     "recipientRegistryAddress": "0x7C2b7832363b6d0Bd0AEF764aA09b66F4da06D61"
   },
   "projects": [

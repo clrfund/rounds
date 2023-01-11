@@ -13,6 +13,12 @@
     "tallyHash": "QmQmYKNXTs7Zc5FgLnKe3T52hT4pGBGrNkEZubHnpSHNSG",
     "maciAddress": "0x2f9903a903d8e3E33946a38CEA647E4cEE4516Bd",
     "startTime": 1610207600,
+    "endTime": 1612022000,
+    "signUpDuration": 1555200,
+    "votingDuration": 259200,
+    "messages": 163,
+    "maxMessages": 2047,
+    "maxRecipients": 124,
     "userRegistryAddress": "0xe312E958c47b971C250bC1228A11Df1276643e5D",
     "recipientRegistryAddress": "0xd46f15e2b3abABE2B726D0F2959329a9a2b76748"
   },
