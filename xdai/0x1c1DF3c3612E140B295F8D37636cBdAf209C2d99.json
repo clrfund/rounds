@@ -20,7 +20,8 @@
     "maxMessages": 8191,
     "maxRecipients": 124,
     "userRegistryAddress": "0xe312E958c47b971C250bC1228A11Df1276643e5D",
-    "recipientRegistryAddress": "0x71CD33852D9A3cc452af9D8f93c7EC5249876649"
+    "recipientRegistryAddress": "0x71CD33852D9A3cc452af9D8f93c7EC5249876649",
+    "blogUrl": "https://blog.clr.fund/round-7-review"
   },
   "projects": [
     {
